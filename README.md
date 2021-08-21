@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
 Deployed this project on https://react-dictionary-raunak.netlify.app/
+
+Created a Dictionary Web App to know the meaning and pronunciation of the searched word. Tech Stacks used over here are React JS, Material UI for UI and better UX, VS Code as the text editor, and dictionary API to fetch data. Used Axios to fetch data from the API. Also created a toggle for switching between light and dark mode. Project is also Iive on Netlify.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
